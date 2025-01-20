@@ -1,0 +1,16 @@
+# IDE files
+.idea/
+.vscode/
+
+# Project files
+**/build/
+**/target/
+
+# Output files
+**/*.out
+
+# OSX related files
+**/.DS_Store
+
+# Terraform files
+social-network-db/.terraform/providers/
